@@ -2,10 +2,10 @@
 
 Data analytics enthusiast from Lithuania
 
-👨‍💻 **Databases**: Proficient in SQL, relational databases, and BigQuery for efficient data querying.
-🗒️**Analytical Methods**: Skilled in data cleaning, cohort and retention analysis, churn prediction, funnel analysis, and customer segmentation, including RFM and CLV analysis.
-🎨 **Data Visualization**: Experienced in Google Spreadsheets, Tableau, and creating compelling dashboards and data storytelling presentations.
-📊 **Statistics/Machine Learning**: Applied A/B testing, linear regression, and logistic regression for data-driven decision-making.
+👨‍💻 **Databases**: Proficient in SQL and BigQuery for efficient data querying
+🗒️ **Analytical Methods**: Skilled in data cleaning, cohort and retention analysis, churn prediction, funnel analysis, customer segmentation (RFM and CLV analysis)
+🎨 **Data Visualization**: Experienced in Google Spreadsheets, Tableau, and creating compelling dashboards and data storytelling presentations
+📊 **Statistics/Machine Learning**: Applied A/B testing, linear regression, and logistic regression for data-driven decision-making
 
 Connect with me on [linkedin](https://www.linkedin.com/in/ruta-spaicyte/)
 
