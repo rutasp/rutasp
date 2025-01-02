@@ -1,6 +1,6 @@
 ## Hi there, I'm Ruta 👋
 
-Data analytics enthusiast from Lithuania
+Data analytics enthusiast from Lithuania 🇱🇹
 
 👨‍💻 **Databases**: Proficient in SQL and BigQuery for efficient data querying
 
