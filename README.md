@@ -10,7 +10,7 @@ Data analytics enthusiast from Lithuania
 
 📊 **Statistics/Machine Learning**: Applied A/B testing, linear regression, and logistic regression for data-driven decision-making
 
-Connect with me on [linkedin](https://www.linkedin.com/in/ruta-spaicyte/)
+Connect with me on [LinkedIn](https://www.linkedin.com/in/ruta-spaicyte/)
 
 <!--
 **rutasp/rutasp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
